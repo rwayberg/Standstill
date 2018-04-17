@@ -1,0 +1,18 @@
+c:\users\the\documents\visual studio 2013\Projects\Standsill\Standsill\bin\Debug\Standsill.exe.config
+c:\users\the\documents\visual studio 2013\Projects\Standsill\Standsill\bin\Debug\Standsill.exe
+c:\users\the\documents\visual studio 2013\Projects\Standsill\Standsill\bin\Debug\Standsill.pdb
+c:\users\the\documents\visual studio 2013\Projects\Standsill\Standsill\obj\Debug\MainWindow.baml
+c:\users\the\documents\visual studio 2013\Projects\Standsill\Standsill\obj\Debug\MainWindow.g.cs
+c:\users\the\documents\visual studio 2013\Projects\Standsill\Standsill\obj\Debug\App.g.cs
+c:\users\the\documents\visual studio 2013\Projects\Standsill\Standsill\obj\Debug\Standsill_MarkupCompile.cache
+c:\users\the\documents\visual studio 2013\Projects\Standsill\Standsill\obj\Debug\Standsill.g.resources
+c:\users\the\documents\visual studio 2013\Projects\Standsill\Standsill\obj\Debug\Standsill.Properties.Resources.resources
+c:\users\the\documents\visual studio 2013\Projects\Standsill\Standsill\obj\Debug\Standsill.csproj.GenerateResource.Cache
+c:\users\the\documents\visual studio 2013\Projects\Standsill\Standsill\obj\Debug\Standsill.exe
+c:\users\the\documents\visual studio 2013\Projects\Standsill\Standsill\obj\Debug\Standsill.pdb
+c:\users\the\documents\visual studio 2013\Projects\Standsill\Standsill\bin\Debug\Newtonsoft.Json.dll
+c:\users\the\documents\visual studio 2013\Projects\Standsill\Standsill\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\The\documents\visual studio 2013\Projects\Standsill\Standsill\obj\Debug\Standsill.csprojResolveAssemblyReference.cache
+T:\Coding\Repos\Standstill\Standstill\Standsill\bin\Debug\Standsill.exe.config
+T:\Coding\Repos\Standstill\Standstill\Standsill\obj\Debug\Standsill.exe
+T:\Coding\Repos\Standstill\Standstill\Standsill\obj\Debug\Standsill.pdb
